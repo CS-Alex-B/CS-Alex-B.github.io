@@ -3,6 +3,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color: coral;
+    color: #332C26;
     text-align: center;
+}
+div {
+    color: coral
 }
